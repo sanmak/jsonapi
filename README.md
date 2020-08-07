@@ -1,6 +1,7 @@
 # jsonapi.co
 
 # https://www.jsonapi.co/
+# https://sanmak.github.io/jsonapi/
 
 ### [jsonapi](https://www.jsonapi.co/) is a Hosted API's platform with 24 * 7 availability to test your code for free 🙌
 
