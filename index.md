@@ -1,6 +1,6 @@
 # <center>jsonapi.co</center>
 
-# <center>[https://www.jsonapi.co/](https://www.jsonapi.co/)</center>
+# [https://www.jsonapi.co/](https://www.jsonapi.co/)
 
 ### [jsonapi](https://www.jsonapi.co/) is a Hosted API's platform with 24 \* 7 availability to test your code for free 🙌
 
@@ -83,4 +83,4 @@ For any help, feeback, feature requirement or even for a sip of coffee / tea / b
 
 # <center> Support us with your love </center>
 
-# <center> [Buy Me A coffee](https://www.buymeacoffee.com/jsonapi) </center>
+# [Buy Me A coffee](https://www.buymeacoffee.com/jsonapi)
