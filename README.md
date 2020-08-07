@@ -1,6 +1,8 @@
+# jsonapi.co
+
 # https://www.jsonapi.co/
 
-[jsonapi](https://www.jsonapi.co/) is a Hosted API's platform with 24 * 7 availability to test your code for free 🙌
+### [jsonapi](https://www.jsonapi.co/) is a Hosted API's platform with 24 * 7 availability to test your code for free 🙌
 
 ### Why do world need such platform ?
 
@@ -15,7 +17,7 @@ To solve it, [jsonapi](https://www.jsonapi.co/) is developed to save time, effor
 
 ### Api's
 
-Visit [jsonapi](https://www.jsonapi.co/)
+Visit [jsonapi.co](https://www.jsonapi.co/)
 
 ## Code snippet
 
